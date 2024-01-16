@@ -1,0 +1,1 @@
+Create Mario game use Monogame 2D graphics Engines. Implement game with event-based programming and objects rendering. familiar with elements of game engines such as AI, animation, memory management, and user control and with game content creation and editing tools.
